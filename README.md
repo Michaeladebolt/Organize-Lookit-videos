@@ -1,11 +1,3 @@
----
-title: "organize_lookit_videos"
-author: "Michaela DeBolt"
-date: "6/27/2021"
-output: html_document
----
-
-
 ## Overview
 
 One thing you may have noticed is that when you download the video data from Lookit, it downloads into a single file making it very difficult to know which file belongs to which participant. One soultion would be to look up the ID information included in each file name, but because the file names are so long and because there are so many files in the downloaded folder, this process would be very arduous. In addition, every time you wish to download *new* data, you would have to repeat this process from the beginning again. 
